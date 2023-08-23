@@ -2,6 +2,8 @@
 
 - [@kotharii](https://github.com/kotharii)
 
+- [@tyleradams2002](htpps://github.com/tyleradams2002)
+
 - [@aqibkhan20](https://github.com/aqibkhan20)
 
 - [@makhalifa](https://github.com/makhalifa)
